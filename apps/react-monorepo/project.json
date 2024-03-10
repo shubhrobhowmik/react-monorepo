@@ -1,8 +1,0 @@
-{
-  "name": "react-monorepo",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/react-monorepo/src",
-  "projectType": "application",
-  "targets": {},
-  "tags": []
-}
